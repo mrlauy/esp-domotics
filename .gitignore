@@ -1,0 +1,6 @@
+# secrets
+credentials.lua
+
+# esp firmware builder except the changed files
+nodemcu-firmware/*
+!nodemcu-firmware/app/include/user_modules.h
