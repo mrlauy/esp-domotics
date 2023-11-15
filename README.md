@@ -35,7 +35,7 @@ You should now see that it is now showing as attached by running `dmesg`.
 ```
 
 ## Flash firmware
-https://nodemcu.readthedocs.io/en/release/getting-started/
+Recourse: https://nodemcu.readthedocs.io/en/release/getting-started/
 
 Build the nodemcu firmware with site or with docker image
 ```
